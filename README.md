@@ -13,6 +13,7 @@
 - [**\[EMF\] Entity Model Features**](https://modrinth.com/mod/entity-model-features)
 - [**\[ETF\] Entity Texture Features**](https://modrinth.com/mod/entitytexturefeatures)
 - [**CIT Resewn**](https://modrinth.com/mod/cit-resewn)
+  
 **[ENG]** If you don't want the hassle of having to install these mods yourself, we can recommend the modpack [**WikiRaze's Recommended**](https://modrinth.com/modpack/wikiraze) which comes with the Trusted Pack and it's dependencies pre-installed.
 
 **[SWE]** Ifall du inte vill krångla med att installera dessa mods själv kan vi rekommendera modpacket [**WikiRaze's Recommended**](https://modrinth.com/modpack/wikiraze) som kommer med Trusted Pack och dessa mods färdiginstallerade.
