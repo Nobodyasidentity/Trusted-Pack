@@ -3,4 +3,4 @@
 ### FIXES  
 🛠️ Fixade Trustedianska med kraften av ett enda komma.  
 ### TOG BORT  
-➖ Tog bort `trusted pack.zip` för att flytta till **packages**.  
+➖ Tog bort `trusted pack.zip` för att flytta till [**releases**](.../releases).  
