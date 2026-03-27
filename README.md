@@ -1,3 +1,5 @@
+> **Detta är en 'fork' av originalet ([Trusted Pack](https://github.com/onlinesgc/Trusted-Pack)).**
+
 **Trusted Pack** is the resourcepack created by and for the Trusted SMP by SGC. Most textures are vanilla, but there are some hidden refrences to Trusted. To realy enjoy this pack however we recommend installing the mods ETF, EMF and CIT Resewn.
 
 # What is Trusted Pack?
